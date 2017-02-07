@@ -1,0 +1,25 @@
+Written by Mark Kantrowitz, School of Computer Science,
+Carnegie Mellon University, March 1993.
+
+Copyright (c) 1993 by Mark Kantrowitz. All rights reserved.
+
+Use and copying of this software and preparation of derivative works
+based upon this software are permitted, so long as the following
+conditions are met:
+
+     * no fees or compensation are charged for use, copies, 
+       distribution or access to this software
+
+     * this copyright notice is included intact.
+
+This software is made available AS IS, and no warranty is made about
+the software or its performance.
+
+In no event will the author(s) or their institutions be liable to you
+for damages, including lost profits, lost monies, or other special,
+incidental or consequential damages, arising out of or in connection
+with the use or inability to use (including but not limited to loss of
+data or data being rendered inaccurate or losses sustained by third
+parties or a failure of the program to operate as documented) the
+program, or for any claim by any other party, whether in an action of
+contract, negligence, or other tortious action.
